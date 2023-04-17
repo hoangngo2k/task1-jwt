@@ -76,8 +76,8 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-.mvn
-.idea
+.mvn/
+.idea/
 
 mvnw
 mvnw.cmd
